@@ -1,9 +1,11 @@
 # AOe
+Be ensure you have NODEJS installed with npm, then you are ready to install Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
 ## Development server
 
+Run in the root of the project `npm install` for installing all dependences in the project
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
